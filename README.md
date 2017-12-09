@@ -1,2 +1,4 @@
 # Hello-World
-just a play repos
+Hi Humans!
+
+This is just a sample branch addition to the readme.
